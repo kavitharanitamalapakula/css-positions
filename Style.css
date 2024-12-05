@@ -1,0 +1,64 @@
+.back {
+    background-image: url(https://www.w3schools.com/w3images/architect.jpg);
+    position: relative;
+    height: 500px;
+}
+
+.content {
+    position: absolute;
+    color: white;
+    left: 40%;
+    top: 300px;
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+b {
+    background-color: rgba(14, 13, 12, 0.779);
+    background-size: contain;
+    font-size: 40px;
+}
+
+.Main,
+.main-2 {
+    text-align: center;
+}
+
+.item-1,
+.item-2,
+.item-3,
+.item-4 {
+    margin: 10px;
+    position: relative;
+    display: inline-block;
+    width: 325px;
+
+}
+
+img {
+    width: 100%;
+}
+
+.par-1,
+.par-2,
+.par-3,
+.par-4 {
+    background-color: black;
+    display: inline-block;
+    color: white;
+    position: absolute;
+    font-size: 30px;
+    top: 0px;
+    left: 0px;
+    margin: 0;
+}
+
+.item-5,
+.item-6,
+.item-7,
+.item-8 {
+    width: 300px;
+    height: 500px;
+    display: inline-block;
+}
